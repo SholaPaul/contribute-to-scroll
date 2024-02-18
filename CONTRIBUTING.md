@@ -29,6 +29,8 @@ Please start by making a PR to any external repo first. You can then create a dr
 
 Remember to review each external project's `CONTRIBUTING.md` file before making a PR. Scroll is community-first, and that means respecting the norms and requests of other code communities.
 
+
+
 #### Making a PR to this Repo
 
 1. Fork the `contribute-to-scroll` repo.
